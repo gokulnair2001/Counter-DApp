@@ -1,4 +1,4 @@
-# Counter
+# Counter 
 This repo is for beginners who want to have a hands-on with Dapp(Decentralised applications). Basically in this repo, I have deployed a Smart Contract on **Ethereum** chain. The contract performs a counter action where a variable gets increased by 1 with every transaction.  
 
 # Technologies
@@ -73,4 +73,11 @@ Perfrom the transaction👆
 
 Polygon Scan helps to verify our contract and have a look on the transactions happening in the network. To verify you need to add the asked details and verify it. Once verified you can have a look on the transactions happening on the network through your contract. 
 
+## License 
+
+Conter is available under the MIT license. See the [LICENSE file](https://github.com/gokulnair2001/ConfettiKit/blob/master/LICENSE) for more info.
+
+<p align="center" width="100%">
+   Made with ❤️ in 🇮🇳 By Gokul Nair   
+</p>
 
