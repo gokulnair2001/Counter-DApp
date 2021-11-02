@@ -50,8 +50,27 @@ You need to deploy the contract on the chain to get the address of the contract 
 
 4. Perform Transaction
 
-For performing
+* For performing the transaction run [Index.html] file on the local host.
+* Open the web inspector
+* Then write following code
+
+```js
+var abi = 
+```
+ABI will be available once you compile the code on Remix. After compiling it at the botton you can find **ABI** and **Bytecode**.
+
+```js
+var bytecode = ""
+```
+Before adding the bytecode remember we only need the object value from bytecode hwich you get from remix. Take the **object** value and append **0x** in the front and add it in the bytecode var.
+
+``` js
+await deploy(abi, bytecode)
+```
+Perfrom the transaction👆
 
 ## Polygon Scan
 
 Polygon Scan helps to verify our contract and have a look on the transactions happening in the network. To verify you need to add the asked details and verify it. Once verified you can have a look on the transactions happening on the network through your contract. 
+
+
