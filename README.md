@@ -38,7 +38,7 @@ To add funds to your wallet you can reffer this [blog](https://blog.pods.finance
 ## Smart Contract
 1. Develop the smart contract
 
-The rep consist of an file called [counter.sol]() which consist of the smart contract code. Use the Remix compiler to develop it. In order to develop it open the Remix IDE, in the **Contracts** section under **Artifacts** create a new file and add the code.
+The rep consist of an file called [counter.sol](https://github.com/gokulnair2001/Counter-DApp/blob/master/index.html) which consist of the smart contract code. Use the Remix compiler to develop it. In order to develop it open the Remix IDE, in the **Contracts** section under **Artifacts** create a new file and add the code.
 
 2. Compile the Code
 
